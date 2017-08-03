@@ -1,0 +1,9 @@
+{
+  "name": "ncertjs",
+  "version": "0.0.1",
+  "description": "A library exposing functionality that significantly simplifies common mathematical problems.",
+  "main": "index.js",
+  "repository": "git@github.com:arjunepr/ncertjs.git",
+  "author": "Arjun Raju Pillai <revarjunr@gmail.com>",
+  "license": "MIT"
+}
